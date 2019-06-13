@@ -56,7 +56,7 @@ function getRepo(){
   }else{
     return "js-ajax-fetch-lab"
   }
-  
+
 }
 
 function getIssues() {
